@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="root_title">Root:</string>
+    <string name="port_title">Port:</string>
+    <string name="addr_title">Addr:</string>    
+    <string name="can_not_get_ip">Can not get ip</string>
+</resources>
